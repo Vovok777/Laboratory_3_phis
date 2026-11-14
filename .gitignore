@@ -1,0 +1,9 @@
+/build/
+/out/
+/.vs/
+/results/
+/output/
+__pycache__/
+*.pyc
+*.user
+mechanics_error.log
